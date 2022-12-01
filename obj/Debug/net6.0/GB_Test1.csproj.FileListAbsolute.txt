@@ -1,0 +1,15 @@
+D:\Home\GB\Выбор специализации\GB_Test1\bin\Debug\net6.0\GB_Test1.exe
+D:\Home\GB\Выбор специализации\GB_Test1\bin\Debug\net6.0\GB_Test1.deps.json
+D:\Home\GB\Выбор специализации\GB_Test1\bin\Debug\net6.0\GB_Test1.runtimeconfig.json
+D:\Home\GB\Выбор специализации\GB_Test1\bin\Debug\net6.0\GB_Test1.dll
+D:\Home\GB\Выбор специализации\GB_Test1\bin\Debug\net6.0\GB_Test1.pdb
+D:\Home\GB\Выбор специализации\GB_Test1\obj\Debug\net6.0\GB_Test1.csproj.AssemblyReference.cache
+D:\Home\GB\Выбор специализации\GB_Test1\obj\Debug\net6.0\GB_Test1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Home\GB\Выбор специализации\GB_Test1\obj\Debug\net6.0\GB_Test1.AssemblyInfoInputs.cache
+D:\Home\GB\Выбор специализации\GB_Test1\obj\Debug\net6.0\GB_Test1.AssemblyInfo.cs
+D:\Home\GB\Выбор специализации\GB_Test1\obj\Debug\net6.0\GB_Test1.csproj.CoreCompileInputs.cache
+D:\Home\GB\Выбор специализации\GB_Test1\obj\Debug\net6.0\GB_Test1.dll
+D:\Home\GB\Выбор специализации\GB_Test1\obj\Debug\net6.0\refint\GB_Test1.dll
+D:\Home\GB\Выбор специализации\GB_Test1\obj\Debug\net6.0\GB_Test1.pdb
+D:\Home\GB\Выбор специализации\GB_Test1\obj\Debug\net6.0\GB_Test1.genruntimeconfig.cache
+D:\Home\GB\Выбор специализации\GB_Test1\obj\Debug\net6.0\ref\GB_Test1.dll
